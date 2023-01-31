@@ -1,0 +1,7 @@
+print("------------------------------------")
+print("        SQUARE CALCULATOR")
+print("------------------------------------")
+num1=int(input("Enter number : "))
+square=num1*num1
+print("Square of",num1,"is",square)
+
