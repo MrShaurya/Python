@@ -1,0 +1,6 @@
+print("------------------------------------")
+print("         CUBE CALCULATOR")
+print("------------------------------------")
+num1=int(input("Enter number : "))
+cube=num1*num1*num1
+print("Cube of",num1,"is",cube)
